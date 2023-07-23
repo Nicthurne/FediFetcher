@@ -1,7 +1,8 @@
 {
   "server": "tyrol.social",
   "home-timeline-length": 200,
-  "backfill-mentioned-users": 0,
-  "backfill-with-context": 0,
+  "from-notifications": 1,
+  "max-bookmarks": 80,
+  "max-followings": 80,
   "reply-interval-in-hours": 0
 }
