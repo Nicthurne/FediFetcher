@@ -1,7 +1,7 @@
 {
-  "access-token": "ACCESS_TOKEN",
   "server": "tyrol.social",
   "home-timeline-length": 200,
-  "max-followings": 80,
-  "from-notifications": 1
+  "backfill-mentioned-users": 0,
+  "backfill-with-context": 0,
+  "reply-interval-in-hours": 0
 }
